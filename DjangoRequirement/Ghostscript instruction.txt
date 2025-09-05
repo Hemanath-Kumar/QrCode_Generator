@@ -1,0 +1,23 @@
+Install this python package and software below:-
+
+This ghostscript must be install to generate qrcodes:-
+
+Windows
+Download Ghostscript:
+
+https://www.ghostscript.com/download/gsdnld.html
+
+Install (default settings).
+
+Add Ghostscript bin folder to your System PATH:
+
+
+
+
+
+
+
+
+
+
+
