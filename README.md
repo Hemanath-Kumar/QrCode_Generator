@@ -95,7 +95,3 @@ Made with by Hemanath Kumar
 
 
 
-
-👉 This README includes **emojis, clear sections, installation steps, and contribution guidelines**.  
-
-Would you like me to also **add badges** (like GitHub stars ⭐, issues 🐞, license 📜
